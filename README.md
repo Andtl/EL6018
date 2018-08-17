@@ -9,9 +9,9 @@ Marcelo Matus A.
 --------------------------------------------
 Integrantes:
 
-Cecilia Ibarra \n
-Octavio Pérez \n
-Andrés Thomas \n
+Cecilia Ibarra
+Octavio Pérez
+Andrés Thomas
 
 --------------------------------------------
 Descripción:
