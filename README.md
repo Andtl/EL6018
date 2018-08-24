@@ -9,9 +9,11 @@ Marcelo Matus A.
 --------------------------------------------
 Integrantes:
 
-Cecilia Ibarra \n
-Octavio Pérez \n
-Andrés Thomas \n
+Cecilia Ibarra
+
+Octavio Pérez
+
+Andrés Thomas
 
 --------------------------------------------
 Descripción:
@@ -24,4 +26,4 @@ Librerias Requeridas:
 - Python 3.6+
 - TKinter
 - SQLite3
-
+- Coverage 
