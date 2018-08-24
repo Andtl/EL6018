@@ -27,11 +27,9 @@ class Test(unittest.TestCase):
 
         conn = sqlite3.connect(BDFILE)
         c = conn.cursor()
-        try:
-            c.execute('SELECT count(*) FROM sqlite_master WHERE type = \'table\' AND name = \'{tn}\''.\
+        c.execute('SELECT count(*) FROM sqlite_master WHERE type = \'table\' AND name = \'{tn}\''.\
                               format(tn=TABLA))
-        except:
-            self.assertTrue(1==0)
+        
         conn.commit()
         conn.close()   
         

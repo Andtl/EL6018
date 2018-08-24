@@ -6,7 +6,7 @@ def crear_BD(fileName,tableName,campoName,typeName):
 	c = conn.cursor()
 	try:
 		c.execute('CREATE TABLE {tn} ({nf} {ft})'.format(tn=tableName, nf=campoName, ft=typeName))
-	except:
+	except sqlite3.OperationalError:
 		None
 	conn.commit()
 	conn.close()
