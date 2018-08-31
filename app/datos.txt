@@ -1,0 +1,5 @@
+Adrenalina,0.01,0.1,1ml=0.1mg (1ml+ 9 ml SF),1.2
+Atropina,0.01,0.1,1ml=0.1mg (1ml+ 9 ml SF),1.2
+Adenosina,0.1,3,1ml=3mg,0.4
+Amiodarona,1,50,1ml=50mg,1.2
+Lidocaina,1,20,1ml=50mg,0.6
